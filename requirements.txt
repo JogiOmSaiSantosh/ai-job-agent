@@ -1,0 +1,6 @@
+streamlit
+pymupdf
+requests
+pandas
+selenium
+beautifulsoup4
